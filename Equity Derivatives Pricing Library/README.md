@@ -28,10 +28,6 @@ This Python library is dedicated to the pricing of various financial derivatives
      - **Asset-or-Nothing Options:** Options that pay the asset if it ends in the money.
      - **Cash-or-Nothing Options:** Options that pay a fixed amount of cash if the option ends in the money.
      - **Digital Options (Call and Put):** Options that pay a fixed amount if the underlying asset is above (or below) a certain level at expiration.
-   - We also provide an introduction to the pricing of barrier options, including:
-     - **Regular Down-and-In Call (DIC):** A call option that comes into existence only if the underlying asset price hits a predetermined barrier level from above.
-     - **Regular Down-and-Out Call (DOC):** A call option that ceases to exist if the underlying asset price hits a predetermined barrier level from above.
-     - **Binary Down-and-In Call (DIC):** A binary call option that becomes active when the underlying asset price hits a barrier level.
 
 5. **FX Options Pricing:**
    - The library includes tools for pricing FX options, incorporating the complexities of foreign and domestic currencies:
