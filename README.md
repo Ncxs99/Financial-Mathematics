@@ -4,7 +4,7 @@ This repository is dedicated to the development of Python libraries focused on t
 
 **Key Goals:**
 
-1. **Understanding Asset Classes Derivatives:** The project aims to deepen our understanding of equity derivatives, including options, futures, and other complex financial instruments. By dissecting the mathematical models and financial theories behind these products, we seek to offer comprehensive pricing solutions.
+1. **Understanding Basic Asset Classes Derivatives:** The project aims to deepen our understanding of derivatives, including options, futures, and other complex financial instruments. By dissecting the mathematical models and financial theories behind these products, we seek to offer comprehensive pricing solutions.
 
 2. **Pricing Methodologies:** We will explore and implement various pricing methodologies commonly used in the financial industry. This includes, but is not limited to:
    - **Black-Scholes Model:** A foundational model for pricing European options and understanding market dynamics.
