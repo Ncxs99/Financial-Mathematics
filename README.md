@@ -1,4 +1,4 @@
-### Pricing Libraries for Financial Equity Derivatives
+### Description 
 
 This repository is dedicated to the development of Python libraries focused on the pricing of financial equity derivatives. The primary objective is to build robust, efficient, and flexible tools that can be utilized for pricing a wide range of derivative products.
 
