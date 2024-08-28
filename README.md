@@ -15,3 +15,5 @@ This repository is dedicated to the development of Python libraries focused on t
 
 This project is intended for quantitative analysts, financial engineers, and developers interested in the intricacies of derivative pricing. Whether you're looking to better understand the mathematics of pricing models or seeking practical implementations, this repository aims to be a valuable resource.
 
+Feel Free to get in touch and add new ideas .
+
