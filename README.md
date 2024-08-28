@@ -1,10 +1,10 @@
 ### Description 
 
-This repository is dedicated to the development of Python libraries focused on the pricing of financial equity derivatives. The primary objective is to build robust, efficient, and flexible tools that can be utilized for pricing a wide range of derivative products.
+This repository is dedicated to the development of Python libraries focused on the pricing of financial derivatives. The primary objective is to build robust, efficient, and flexible tools that can be utilized for pricing a wide range of derivative products.
 
 **Key Goals:**
 
-1. **Understanding Equity Derivatives:** The project aims to deepen our understanding of equity derivatives, including options, futures, and other complex financial instruments. By dissecting the mathematical models and financial theories behind these products, we seek to offer comprehensive pricing solutions.
+1. **Understanding Asset Classes Derivatives:** The project aims to deepen our understanding of equity derivatives, including options, futures, and other complex financial instruments. By dissecting the mathematical models and financial theories behind these products, we seek to offer comprehensive pricing solutions.
 
 2. **Pricing Methodologies:** We will explore and implement various pricing methodologies commonly used in the financial industry. This includes, but is not limited to:
    - **Black-Scholes Model:** A foundational model for pricing European options and understanding market dynamics.
