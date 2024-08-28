@@ -22,8 +22,8 @@ This section is dedicated to the pricing of bonds and the calculation of related
    - **Bond Convexity:** Assesses the curvature in the bond price-yield curve, providing insights into interest rate risk.
 
 4. **Practical Application - VASICEK:**
-   - **Experience and Variance:** Analyzes the performance and variability of bond pricing models using VASICEK.
-   - **Infinite Rate and Volatility:** Calculates the rate and volatility of zero-coupon bonds in the VASICEK context.
+   - **Expectation and Variance:** Analyzes the performance and variability of bond pricing models using VASICEK.
+   - **Infinite Rate and Volatility:** Calculates the infinite rate and volatility of zero-coupon bonds in the VASICEK context.
    - **Sensitivity Analysis:** Evaluates the sensitivity of zero-coupon bonds to various factors using VASICEK.
    - **Visualization:** Provides case studies and visual representations to illustrate the practical application of bond pricing techniques.
 
