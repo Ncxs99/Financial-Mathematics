@@ -6,8 +6,8 @@ Welcome to the **Options Properties and Strategies** section of this repository!
 
 We will begin by exploring the key **properties of different types of options**, including:
 
-- **American Options**: These options can be exercised at any time before or at expiration. We will discuss how this flexibility impacts their value, especially compared to European options.
 - **European Options**: Unlike American options, European options can only be exercised at expiration. We will explain how this restriction affects their pricing and their role in various trading strategies.
+- **American Options**: These options can be exercised at any time before or at expiration. We will discuss how this flexibility impacts their value, especially compared to European options.
 - **Asian Options**: These options are based on the average price of the underlying asset over a specific period rather than the spot price at expiry. We will explore how they differ in pricing and application.
 - **Barrier Options**: These are options that become active or inactive depending on whether the underlying asset's price reaches a certain level (the barrier). We will dive into how barrier options work and the various types such as knock-in and knock-out options.
 - **Exotic Options**: This category includes options with more complex features, and we will gradually introduce different types of exotic options, detailing their unique characteristics and pricing models.
