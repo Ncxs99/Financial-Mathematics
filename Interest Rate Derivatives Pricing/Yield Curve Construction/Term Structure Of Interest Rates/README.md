@@ -1,6 +1,6 @@
 # TermStructureClassInterpolated: A Flexible Term Structure for Yield Curve Analysis
 
-Welcome to **TermStructureClassInterpolated** — a highly adaptable and powerful class for modeling term structures in finance! This class is designed to provide exceptional flexibility by supporting both *flat* and *non-flat* term structures, allowing users to leverage a variety of yield curve scenarios with ease. Below, we walk through the core functionality and features that make this class an ideal tool for yield curve modeling and analysis.
+Welcome to **TermStructureClassInterpolated** — a highly adaptable and powerful class for modeling term structures in finance! This class is designed to provide flexibility by supporting both *flat* and *non-flat* term structures, allowing users to leverage a variety of yield curve scenarios with ease. Below, we walk through the core functionality and features that make this class an ideal tool for yield curve modeling and analysis.
 
 ---
 
