@@ -4,27 +4,14 @@ This section is dedicated to the pricing of bonds and the calculation of related
 
 #### Key Features:
 
-1. **Discounting and Accumulation Functions:**
-   - **Discounting Function:** Calculates the present value of future cash flows.
-   - **Accumulation Function:** Determines the future value of a present amount, considering interest compounding.
+1. **Use of the term structure of interest rates:**
+   - We used our term structure of interest rates function to compute the corresponding zero_coupons bonds for the pricer of
+     our bond .  
 
-2. **Zero-Coupon Bond Calculations:**
-   - **Zero-Coupon Bond Price:** Computes the price of bonds that do not pay periodic interest.
-   - **Zero-Coupon Rate:** Calculates the yield on zero-coupon bonds.
-   - **Zero-Coupon Forward:** Determines the future price of zero-coupon bonds.
-   - **Zero-Coupon Forward Rate:** Computes the implied interest rate for zero-coupon bonds over a specific period.
-   - **BIS Method:** Applies a new approach for calculating zero-coupon forward rates, incorporating advanced techniques.
-
-3. **Bond Pricing Metrics:**
+2. **Bond Pricing Metrics:**
    - **Bond Pricing:** Implements various methods to price bonds, including those with coupon payments.
-   - **Actuarial Rate of Bond:** Calculates the internal rate of return on bonds.
    - **Bond Duration:** Measures the sensitivity of bond prices to changes in interest rates.
    - **Bond Convexity:** Assesses the curvature in the bond price-yield curve, providing insights into interest rate risk.
-
-4. **Practical Application - VASICEK:**
-   - **Expectation and Variance:** Analyzes the performance and variability of bond pricing models using VASICEK.
-   - **Infinite Rate and Volatility:** Calculates the infinite rate and volatility of zero-coupon bonds in the VASICEK context.
-   - **Sensitivity Analysis:** Evaluates the sensitivity of zero-coupon bonds to various factors using VASICEK.
 
 This section offers a thorough toolkit for bond pricing and interest rate analysis, supporting financial analysts, portfolio managers, and researchers in evaluating fixed-income securities.
 applications provided.
