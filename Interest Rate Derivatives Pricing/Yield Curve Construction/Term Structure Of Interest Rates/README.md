@@ -5,13 +5,13 @@
 **TermStructureClassInterpolated** — a highly flexible class designed for dynamic modeling and analysis of interest rate term structures. This class combines the simplicity of linear interpolation with the power to calculate discount factors, forward rates, and interest rate yields at any time, providing users with robust tools for analyzing yield curves in various market conditions.
 
 ### **Key Features**:
-- **Linear Interpolation**: The class supports **linear interpolation** for yield estimation, allowing us to easily calculate the yield at any given time \( T \) based on observed data points.
+- **Linear Interpolation**: The class supports **linear interpolation** for yield estimation, allowing us to easily calculate the yield at any given time $t$ based on observed data points.
 - **Discount Factor and Forward Rate Calculation**: In addition to yield curve estimation, the class enables the calculation of **discount factors** and **forward rates** at any time, derived from the interpolated yields.
 - **Flat Term Structure Override**: For scenarios where a constant interest rate is needed across all maturities, the class allows users to manually set a **flat term structure**, overriding interpolation for faster and simpler calculations.
 - **Customizable Observations**: The class supports custom **time** and **yield** observations, making it adaptable to different yield curve configurations and user preferences.
 
 ### **How It Works**:
-- **Yield Calculation**: The `r(T)` method provides the yield at any given time \( T \), utilizing linear interpolation between provided time-yield points. If a flat rate is provided, the class returns this rate across all maturities.
+- **Yield Calculation**: The `r(t)` method provides the yield at any given time $t$, utilizing linear interpolation between provided time-yield points. If a flat rate is provided, the class returns this rate across all maturities.
 - **Discount Factor**: With the interpolation of yields, discount factors can be derived for any given time period.
 - **Forward Rate**: Similarly, forward rates between two given times can be computed using the relationship between discount factors at those points.
 
