@@ -19,13 +19,5 @@
 - We will be adding additional interpolation methods, such as **cubic splines**, to further enhance the flexibility of the term structure model.
 - Future updates will include more complex methods for interest rate modeling, providing even greater flexibility and precision for financial calculations.
 
----
-
-**Files Changed**:
-- `term_structure_class_interpolated.py` – Implemented linear interpolation, discount factor, forward rate calculations, and flat rate override.
-- `README.md` – Updated with explanations on how to use the class for interpolation, discount factor, and forward rate calculations.
-
----
-
 **Why Choose `TermStructureClassInterpolated`**:
 This class is a powerful and adaptable tool for anyone working with interest rate models. Whether you're analyzing financial markets, conducting risk assessments, or forecasting interest rates, the flexibility to manually set a flat term structure or use interpolation for precise estimations at arbitrary times makes **TermStructureClassInterpolated** a versatile solution. With plans to extend functionality to include **cubic splines** and other advanced techniques, this class will continue to evolve as a comprehensive tool for yield curve analysis.
