@@ -5,6 +5,7 @@ This section is dedicated to the pricing and analysis of interest rate derivativ
 #### Current Focus:
 - **Bond Pricing:**
   - We have implemented methods to calculate the price of bonds, incorporating key metrics such as duration and convexity. These metrics help in assessing the sensitivity of bond prices to changes in interest rates and understanding their risk profiles.
+- **Term Structure of Interest Rates**
 
 #### Future Developments:
 - This section will continue to evolve with the addition of more sophisticated interest rate derivatives and pricing models. Upcoming features will expand the range of products and analytical tools available.
