@@ -10,7 +10,7 @@ Below is a breakdown of how we derive and calculate these key metrics using each
 ### **1. Nelson-Siegel Model**:
 
 The **Nelson-Siegel model** is a popular parametric model used to fit the yield curve. The model expresses the yield at time \( t \) as a function of three parameters:
-- \( \beta_0 \): Long-term rate (asymptotic value)
+- $\beta_0 $: Long-term rate (asymptotic value)
 - \( \beta_1 \): Slope of the yield curve
 - \( \beta_2 \): Curvature
 - \( \lambda \): Time to mean reversion (decay factor)
