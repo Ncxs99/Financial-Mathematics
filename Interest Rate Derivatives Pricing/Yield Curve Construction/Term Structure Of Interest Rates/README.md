@@ -1,12 +1,8 @@
 ### **TermStructureClassInterpolated: A Highly Flexible Term Structure Class for Yield Curve Analysis**
 
 ---
-  
-### Enhance Flexibility with Linear Interpolation for Yield, Discount Factor, and Forward Rate Calculations
 
----
-
-Introducing the **TermStructureClassInterpolated** — a highly flexible class designed for dynamic modeling and analysis of interest rate term structures. This class combines the simplicity of linear interpolation with the power to calculate discount factors, forward rates, and interest rate yields at any time, providing users with robust tools for analyzing yield curves in various market conditions.
+**TermStructureClassInterpolated** — a highly flexible class designed for dynamic modeling and analysis of interest rate term structures. This class combines the simplicity of linear interpolation with the power to calculate discount factors, forward rates, and interest rate yields at any time, providing users with robust tools for analyzing yield curves in various market conditions.
 
 ### **Key Features**:
 - **Linear Interpolation**: The class supports **linear interpolation** for yield estimation, allowing us to easily calculate the yield at any given time \( T \) based on observed data points.
