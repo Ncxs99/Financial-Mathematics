@@ -14,7 +14,7 @@ We will begin by exploring the key **properties of different types of options**,
 
 Each type of option has its own set of properties that determine how it behaves in different market conditions. We will analyze these properties in detail, helping you understand how each option works and how traders use them.
 
-#### Options Trading Strategies
+#### Options Trading and Hedging Strategies
 
 In addition to discussing the properties of options, this section will also cover a variety of **classic options trading strategies**. These strategies are widely used by traders, particularly with **European options**, to manage risk, generate profits, and implement specific market views. Some of the strategies we will cover include:
 
