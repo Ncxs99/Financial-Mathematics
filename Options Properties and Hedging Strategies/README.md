@@ -18,10 +18,10 @@ Each type of option has its own set of properties that determine how it behaves 
 
 In addition to discussing the properties of options, this section will also cover a variety of **classic options trading and hedging strategies**. These strategies are widely used by traders, particularly with **European options**, to manage risk, generate profits, and implement specific market views. Some of the strategies we will cover include:
 
-- **Covered Calls**: A strategy where you hold a long position in an asset and sell a call option on the same asset to generate income.
-- **Protective Puts**: A strategy where you buy a put option to protect against potential losses on an underlying asset.
-- **Spreads**: Involving the simultaneous buying and selling of options with different strike prices or expiration dates, spreads are a popular way to limit risk while still allowing for profit.
-- **Straddles and Strangles**: These strategies involve buying both a call and a put option on the same asset, with the goal of profiting from large price movements, regardless of direction.
+- **Covered strats(Covered Calls)**: A strategy where you hold a long position in an asset and sell a call option on the same asset to generate income.
+- **Protective strats(Protective Puts)**: A strategy where you buy a put option to protect against potential losses on an underlying asset.
+- **Spreads strats**: Involving the simultaneous buying and selling of options with different strike prices or expiration dates, spreads are a popular way to limit risk while still allowing for profit.
+- **Straddles and Strangles strats**: These strategies involve buying both a call and a put option on the same asset, with the goal of profiting from large price movements, regardless of direction.
 
 We will provide clear examples, explanations, and scenarios for each strategy, helping you understand when and how to use them in different market conditions.
 
