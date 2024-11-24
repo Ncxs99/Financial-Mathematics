@@ -20,10 +20,10 @@ For each strategy, we calculate and display their **Greeks**—key metrics used 
 
 ### Future Updates:
 We plan to expand the repository with the following strategies:
-1. **Protective Strategies**:
-2. **Spread Strategies**:
-3. **Straddles and Strangles**:
-4. **Collars**:
+1. **Protective Strategies**
+2. **Spread Strategies**
+3. **Straddles and Strangles**
+4. **Collars**
 
 Each of these strategies will also include a detailed calculation and visualization of their **Greeks** to provide a comprehensive understanding of their risk profiles.
 
