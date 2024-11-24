@@ -16,7 +16,7 @@ Each type of option has its own set of properties that determine how it behaves 
 
 #### Options Trading and Hedging Strategies
 
-In addition to discussing the properties of options, this section will also cover a variety of **classic options trading strategies**. These strategies are widely used by traders, particularly with **European options**, to manage risk, generate profits, and implement specific market views. Some of the strategies we will cover include:
+In addition to discussing the properties of options, this section will also cover a variety of **classic options trading and hedging strategies**. These strategies are widely used by traders, particularly with **European options**, to manage risk, generate profits, and implement specific market views. Some of the strategies we will cover include:
 
 - **Covered Calls**: A strategy where you hold a long position in an asset and sell a call option on the same asset to generate income.
 - **Protective Puts**: A strategy where you buy a put option to protect against potential losses on an underlying asset.
