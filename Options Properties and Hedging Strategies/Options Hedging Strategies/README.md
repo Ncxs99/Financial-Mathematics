@@ -10,7 +10,7 @@ This repository focuses on **Option Hedging Strategies**, a critical component o
 - **Protective Call**
 - **Protective Put**
 
-For each strategy, we calculate and display their **Greeks**—key metrics used to measure sensitivity to various market factors:
+For each strategy, we display their **Greeks**—key metrics used to measure sensitivity to various market factors:
 - **Delta**: Sensitivity to price changes in the underlying asset.
 - **Gamma**: Rate of change of Delta with respect to the underlying price.
 - **Theta**: Sensitivity to the passage of time (time decay).
