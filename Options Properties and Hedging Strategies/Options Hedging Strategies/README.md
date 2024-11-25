@@ -5,7 +5,6 @@ This repository focuses on **Option Hedging Strategies**, a critical component o
 ---
 
 ### Current Implementation:
-We currently support **Covered Strategies**, which involve combining options with underlying assets to reduce risk and manage potential losses:
 - **Covered Call**
 - **Covered Put**
 - **Protective Call**
