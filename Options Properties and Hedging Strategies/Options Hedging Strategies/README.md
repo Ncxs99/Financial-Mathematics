@@ -1,4 +1,4 @@
-### GitHub Repository Description: **Option Hedging Strategies**
+### Description:
 
 This repository focuses on **Option Hedging Strategies**, a critical component of risk management in options trading. Our goal is to provide an intuitive and well-documented implementation of various hedging techniques, making it easier for traders and analysts to understand and apply them.
 
