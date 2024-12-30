@@ -29,6 +29,7 @@ This Python library is dedicated to the pricing of various financial derivatives
      - **Cash-or-Nothing Options:** Options that pay a fixed amount of cash if the option ends in the money.
      - **Digital Options (Call and Put):** Options that pay a fixed amount if the underlying asset is above (or below) a certain level at expiration.
      - **Corridor Options**
+     - **Capped Call Options**
 
 5. **FX Options Pricing:**
    - The library includes tools for pricing FX options, incorporating the complexities of foreign and domestic currencies:
