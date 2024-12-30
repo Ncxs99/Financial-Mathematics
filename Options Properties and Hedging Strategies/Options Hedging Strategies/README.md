@@ -9,6 +9,14 @@ This repository focuses on **Option Hedging Strategies**, a critical component o
 - **Covered Put**
 - **Protective Call**
 - **Protective Put**
+- **Bull Call Spread**
+- **Bull Put Spread**
+- **Long Straddle**
+- **Short Straddle**
+- **Long Strangle**
+- **Short Strangle**
+- **Long Strip**
+- **Short Strip**
 
 For each strategy, we display their **Greeks**—key metrics used to measure sensitivity to various market factors:
 - **Delta**: Sensitivity to price changes in the underlying asset.
