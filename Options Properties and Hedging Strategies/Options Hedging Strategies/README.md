@@ -11,6 +11,8 @@ This repository focuses on **Option Hedging Strategies**, a critical component o
 - **Protective Put**
 - **Bull Call Spread**
 - **Bull Put Spread**
+- **Bear Call Spread**
+- **Bear Put Spread**
 - **Long Straddle**
 - **Short Straddle**
 - **Long Strangle**
