@@ -22,6 +22,10 @@ The `Exotics` class is designed to provide comprehensive tools for pricing a var
 6. **Digital Put:**
    - Similar to the Digital Call, this method prices a put option that pays a fixed amount if the underlying asset's price falls below a certain level at expiration. Digital Puts are often used in strategies where a clear downside protection with a known payout is desired.
 
+7. **Capped Call Option**
+
+8. **Corridor Call Options**
+
 #### Usage:
 The `Exotics` class is implemented in Python and integrates smoothly with broader financial analysis and trading systems. It includes detailed documentation and intuitive methods for each exotic option type, making it easy for users to apply these models in real-world trading or risk management scenarios.
 
