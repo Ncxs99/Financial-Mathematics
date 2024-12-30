@@ -2,7 +2,7 @@
 
 The `EuropeanOptions` class provides a complete suite of tools for pricing European-style options using the Black-Scholes model and for calculating the associated Greeks. This class is essential for traders and analysts who need to understand and manage the sensitivities of their option portfolios.
 
-#### Current Implementation :
+#### Current Implementations :
 
 1. **Standard European Call and Put Options:**
    - **Black-Scholes Call Option:** Prices a standard European call option using the Black-Scholes formula, which assumes the option can only be exercised at expiration.
