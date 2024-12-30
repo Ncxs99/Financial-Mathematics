@@ -14,7 +14,7 @@ The `EuropeanOptions` class provides a complete suite of tools for pricing Europ
    - **Dual Delta (Strike Call and Put):** Sensitivity of the option price to changes in the strike price, also known as the strike Delta.
    - **Dual Gamma (Strike Call and Put):** Second-order sensitivity of the option price with respect to changes in the strike price, also referred to as strike Gamma.
    - **Vega (Call and Put):** Measures the sensitivity of the option price to changes in the volatility of the underlying asset.
-   - **Voma (Call and Put):** Sensitivity of Vega with respect to changes in the underlying asset's price.
+   - **Voma (Call and Put):** Sensitivity of Vega with respect to changes in the volatility itself.
    - **Theta (Call and Put):** Measures the sensitivity of the option price to the passage of time, reflecting time decay.
    - **Rho (Call and Put):** Sensitivity of the option price to changes in the risk-free interest rate.
    - **Psi (Call and Put):** Sensitivity of the option price to changes in the dividend yield of the underlying asset.
