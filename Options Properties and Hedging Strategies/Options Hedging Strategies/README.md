@@ -31,9 +31,9 @@ For each strategy, we display their **Greeks**—key metrics used to measure sen
 
 ### Future Updates:
 We plan to expand the repository with the following strategies:
-1. **Spread Strategies**
-2. **Straddles and Strangles**
-3. **Collars**
+1. **Butterfly strats**
+2. **Condor Spreads**
+3. **Strap strats**
 
 Each of these strategies will also include a detailed calculation and visualization of their **Greeks** to provide a comprehensive understanding of their risk profiles.
 
