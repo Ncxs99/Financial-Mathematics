@@ -2,7 +2,7 @@
 
 The `FXOptions` class is designed to provide robust and flexible tools for pricing a variety of foreign exchange (FX) derivatives. This class is essential for financial professionals looking to accurately price complex options that involve foreign and domestic currency interactions.
 
-#### Key Features:
+#### Current Implementation :
 
 1. **Foreign Equity Call Option Priced in Foreign Currency:**
    - This method prices a call option on foreign equity, where both the underlying asset and the strike price are denominated in foreign currency. It is ideal for scenarios where the investor is operating entirely within a foreign market.
