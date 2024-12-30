@@ -2,7 +2,7 @@
 
 The `Exotics` class is designed to provide comprehensive tools for pricing a variety of exotic options. These options, which feature non-standard payoff structures, are often used in complex trading strategies and require sophisticated pricing techniques.
 
-#### Key Features:
+#### Current Implementations :
 
 1. **Power Option Call:**
    - This method prices a call option where the payoff depends on a power of the underlying asset's price. Power options amplify the potential returns (and risks), making them suitable for investors with a specific view on volatility and asset movements.
@@ -23,7 +23,6 @@ The `Exotics` class is designed to provide comprehensive tools for pricing a var
    - Similar to the Digital Call, this method prices a put option that pays a fixed amount if the underlying asset's price falls below a certain level at expiration. Digital Puts are often used in strategies where a clear downside protection with a known payout is desired.
 
 7. **Capped Call Option**
-
 8. **Corridor Call Options**
 
 #### Usage:
