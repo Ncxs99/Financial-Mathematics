@@ -27,14 +27,13 @@ For each strategy, we display their **Greeks**—key metrics used to measure sen
 - **Gamma**: Rate of change of Delta with respect to the underlying price.
 - **Theta**: Sensitivity to the passage of time (time decay).
 - **Vega**: Sensitivity to volatility changes in the underlying asset.
-- **Rho**: Sensitivity to interest rate changes.
-
+- 
 ---
 
 ### Future Updates:
 We plan to expand the repository with the following strategies:
 1. **Butterfly strats**
-2. **Condor Spreads**
+2. **Condor Strats**
 3. **Strap strats**
 
 Each of these strategies will also include a detailed calculation and visualization of their **Greeks** to provide a comprehensive understanding of their risk profiles.
