@@ -17,6 +17,8 @@ This repository focuses on **Option Hedging Strategies**, a critical component o
 - **Short Strangle**
 - **Long Strip**
 - **Short Strip**
+- **Purchased Collar**
+- **Written Collar**
 
 For each strategy, we display their **Greeks**—key metrics used to measure sensitivity to various market factors:
 - **Delta**: Sensitivity to price changes in the underlying asset.
